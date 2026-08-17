@@ -67,3 +67,15 @@
 **[timelineMakerSite](https://github.com/KakaBon/timelineMakerSite)**
 
 已实现基础网页版本（MVP），用于在浏览器中查看时间轴。
+
+---
+
+## Read What You Want
+
+用于对 TXT 文本进行批量替换和阅读过程中实时编辑的 Android 工具。
+
+### rwyw_reader 阅你想阅阅读器
+
+**[rwyw_reader](https://github.com/KakaBon/rwyw_reader)**
+
+以文本替换和实时编辑为主要功能的 Android TXT 阅读器。支持通过自定义规则脚本批量修改一本或多本 TXT，也可以在阅读过程中直接编辑当前文本；同时提供基础的书架、章节、搜索和书签功能。
